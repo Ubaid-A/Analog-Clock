@@ -28,6 +28,16 @@ img{
     position: relative;
 }
 
+.madeby{
+    position: absolute;
+    color: rgb(182, 16, 16);
+    font-size: 20px;
+    font-style: italic;
+    left: 41%;
+    top: 22%;
+    
+}
+
 .hand{
     position: absolute;
     background-color: #fff;
